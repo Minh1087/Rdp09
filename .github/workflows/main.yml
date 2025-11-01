@@ -5,7 +5,7 @@ on:
     inputs:
       INSTANCE:
         required: false
-        default: "1"
+        
 
 jobs:
   deploy-enigmano:
